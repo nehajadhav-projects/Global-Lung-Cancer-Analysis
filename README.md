@@ -1,31 +1,31 @@
 # Global Lung Cancer Analysis
 
-1. Domain:
+### Domain:
 Healthcare Analytics / Medical Data Analysis
 - Focused on lung cancer research, patient outcomes, and risk factors.
 - Aimed at analyzing smoking, pollution exposure, survival rates, and their correlation with lung cancer progression.
 ________________________________________
-2. Function:
+### Function:
 Data Analysis, Business Intelligence (BI), and Data Visualization
 - Conducted data extraction, transformation, and visualization for deriving meaningful insights.
 - Applied statistical analysis to identify trends and patterns in lung cancer patient data.
 ________________________________________
-3. Project Overview:
+### Project Overview:
 This project analyzes a lung cancer dataset to identify risk factors, smoking behavior, mortality rates, and survival outcomes. Using MySQL, Excel, Power BI, and PowerPoint, the project provides interactive dashboards and visual reports to help understand how different variables affect lung cancer patients across demographics and countries.
 ________________________________________
-4. Problem Statement:
+### Problem Statement:
 1.	How do smoking behaviors (active/passive) impact lung cancer diagnosis?
 2.	What is the relationship between air pollution exposure and lung cancer mortality?
 3.	How do treatment types influence survival rates across cancer stages?
 4.	What are the key demographic factors (age, gender, country) that influence lung cancer prevalence?
 ________________________________________
-5. Tools Used:
+### Tools Used:
 - MySQL: For data extraction, querying, and manipulation.
 - Excel: For data cleaning, preprocessing, and initial exploration.
 - Power BI: For creating interactive dashboards and advanced visualizations.
 - PowerPoint: For presenting project insights and recommendations.
 ________________________________________
-6. Data Cleaning Process:
+### Data Cleaning Process:
 1.	Data Import & Exploration: Loaded the dataset from Excel and MySQL into Power BI.
 2.	Handling Missing Values:
 - Replaced nulls with mean/median for continuous variables (e.g., Age, Years of Smoking).
@@ -37,8 +37,8 @@ ________________________________________
 - Calculated Mortality Rate, Survival Rate, and Smoking Impact Score using DAX in Power BI.
 5.	Data Validation: Ensured consistency between MySQL queries and Power BI outputs.
 ________________________________________
-7. Key Insights:
-1.	Smoking & Lung Cancer:
+### Key Insights:
+1. Smoking & Lung Cancer:
 - 7.07% of smokers in the dataset have lung cancer, with males having a higher smoking impact score.
 2.	Age Factor:
 - Most lung cancer patients fall within the 41-80 age group, indicating a higher risk in older adults.
@@ -51,14 +51,14 @@ ________________________________________
 6.	Treatment Effectiveness:
 - Surgery, Chemotherapy, and Radiotherapy improve survival rates, while patients with no treatment have the highest mortality.
 ________________________________________
-8. Recommendations:
+### Recommendations:
 1.	Early Detection Programs: Increase screening in high-risk populations to improve early-stage detection.
 2.	Targeted Intervention: Implement anti-smoking campaigns targeting male smokers in high-prevalence areas.
 3.	Environmental Policies: Enhance air pollution control policies in countries with high mortality.
 4.	Healthcare Access: Improve treatment accessibility in developing regions to reduce mortality rates.
 5.	Data-Driven Decisions: Use predictive analytics to identify and monitor high-risk patients.
 ________________________________________
-9. What We Learned:
+### What We Learned:
 1.	Data-Driven Insights: How to extract actionable insights from complex healthcare datasets.
 2.	Correlation Analysis: Established relationships between smoking, pollution, and lung cancer outcomes.
 3.	BI Tools Mastery: Enhanced Power BI skills for data modeling, DAX calculations, and visual storytelling.
