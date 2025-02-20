@@ -24,6 +24,18 @@ ________________________________________
 - Excel: For data cleaning, preprocessing, and initial exploration.
 - Power BI: For creating interactive dashboards and advanced visualizations.
 - PowerPoint: For presenting project insights and recommendations.
+
+________________________________________
+### Dashboard:
+Overview
+![Lung Cancer Overview](https://github.com/user-attachments/assets/de233c93-7ed2-4df8-af9f-38fd31376d66)
+
+Smoking and Risk Factors
+![Lung cancer Smoking   Risk Factors](https://github.com/user-attachments/assets/ab36de3b-fe82-443a-81f8-39420ef84549)
+
+Treatment and Survival Analysis
+![Lung cancer Treatment   Survival Analysis](https://github.com/user-attachments/assets/d04f2573-06d4-4d64-8b01-297386ce45af)
+
 ________________________________________
 ### Data Cleaning Process:
 1.	Data Import & Exploration: Loaded the dataset from Excel and MySQL into Power BI.
